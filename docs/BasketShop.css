@@ -1,0 +1,375 @@
+
+body{
+    background-image: 
+    linear-gradient(to right top,
+   rgb(169, 18, 46) 10%, mediumspringgreen,
+    cornflowerblue);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+#header{
+    width: 100%;
+	background: #caabe3;
+	height: 70px;   
+  }
+
+
+  .title{
+	font-size: 36px;
+	padding-top: 10px;
+	text-align: center;
+}
+.menu{
+	list-style: none;
+	position: absolute;
+	top: 10px;
+	right: 100px;
+}
+
+.Nazvanie{
+width: 215px;
+height: 100px;
+background-color: rgb(78, 84, 112);
+position: absolute;
+top: 350px;
+left: 865px;
+font-family: 'Holtwood One SC', serif;
+text-align: center;
+
+}
+.h1{
+    font-size: xx-large;
+
+}
+
+
+.h2{
+    font-size: xx-large;
+
+}
+.h3{
+    font-size: xx-large;
+
+}
+.h4{
+    font-size: xx-large;
+
+}
+
+
+/*  ________________________________________________________________________________________________________________________________     */
+
+.list{
+    height: 800px;
+    /* background-color:blue ; */
+      width: 100%;
+      background-image: url(https://i.trbna.com/preset/wysiwyg/2/68/465ba4e5f11eaafd087aa43be7bd1.jpeg); 
+     z-index: -1;
+  }
+  
+  /*  ________________________________________________________________________________________________________________________________     */
+
+  
+  .list2{ 
+      
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top:100px;
+    width: 100%;
+    height: 1000px;
+    background-color: aquamarine;
+ 
+  }
+
+ .Nazvanielist2{
+ width: 250px;
+ height: 100px;
+ background-color: aqua;
+ position: absolute;
+ top: 100px;
+ font-family: 'Holtwood One SC', serif;
+ text-align: center;
+}
+
+
+.BasketBoll{
+    width: 600px;
+    height: 400px;
+    background-color: black;
+    position: absolute;
+    top: 300px;
+    left:-250px;
+}
+
+.kartinka2{
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    bottom: 250px;
+    left: 50px; 
+    background-image: url(http://wiki.5040.ir/upload/thumb1/content/1451825750.jpg);
+
+}
+
+.buy2{
+
+    width: 250px;
+    height: 50px;
+    background-color: rgb(203, 27, 27);
+    position: absolute;
+ left:  50px;
+ top: 250px;
+ 
+
+}
+
+.see2{
+
+    width: 250px;
+    height: 50px;
+    background-color: rgb(203, 27, 27);
+    position: absolute;
+right:   10px;
+ top: 250px;
+
+}
+
+
+
+
+
+
+/*  ________________________________________________________________________________________________________________________________     */
+
+
+.list3{ 
+    background-color: rgb(153, 0, 255);
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top:200px;
+    width: 100%;
+    height: 1000px;
+}
+
+.Nazvanielist3{
+    width: 220px;
+    height: 100px;
+    background-color: aqua;
+    position: absolute;
+    top: 20px;
+    font-family: 'Holtwood One SC', serif;
+text-align: center;
+    }
+
+    .BasketForma{
+        width: 600px;
+        height: 400px;
+        background-color: black;
+        position: relative;
+      top:  200px;
+ right:    600px;
+    }
+
+    .kartinka3{
+ 
+        width: 281px;
+        height: 355px;
+        position: absolute;
+        bottom: 15px;
+        left: 50px; 
+        background-image:url(https://images-na.ssl-images-amazon.com/images/I/41vKJPyj8YL._AC_SY355_.jpg,https://images-na.ssl-images-amazon.com/images/I/613YCGEYjFL._AC_SL1001_.jpg,https://images-na.ssl-images-amazon.com/images/I/61N7G5EIBoL._AC_SL1001_.jpg,https://images-na.ssl-images-amazon.com/images/I/71SkRzyMQ2L._AC_SL1001_.jpg,https://images-na.ssl-images-amazon.com/images/I/41l0RS48luL._AC_SX466_.jpg,https://images-na.ssl-images-amazon.com/images/I/41b3k2R2iiL._AC_SY450_.jpg,https://images-na.ssl-images-amazon.com/images/I/61izNW2xtpL._AC_SL1001_.jpg,https://images-na.ssl-images-amazon.com/images/I/510j2WVyFtL._AC_SL1001_.jpg,https://images-na.ssl-images-amazon.com/images/I/51PkWU86QcL._AC_SL1001_.jpg,https://images-na.ssl-images-amazon.com/images/I/51sVfeXkS4L._AC_SX466_.jpg,https://images-na.ssl-images-amazon.com/images/I/41kfB80gWML._AC_SX425_.jpg,https://images-na.ssl-images-amazon.com/images/I/51Of6u7WxTL._AC_SX425_.jpg)
+    
+    } 
+    
+    .buy3{
+    
+        width: 250px;
+        height: 50px;
+        background-color: rgb(203, 27, 27);
+        position: absolute;
+ left:  350px;
+   bottom:  250px;
+     
+    
+    }
+    
+    .see3{
+    
+        width: 250px;
+        height: 50px;
+        background-color: rgb(203, 27, 27);
+        position: absolute;
+        left: 350px;
+        top: 250px;
+    }
+    
+
+/*  ________________________________________________________________________________________________________________________________     */
+
+.list4{ 
+    background-color: rgb(35, 0, 132);
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top:300px;
+    width: 100%;
+    height: 1000px;
+}
+
+.Nazvanielist4{
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+    position: absolute;
+    top: 50px;
+    font-family: 'Holtwood One SC', serif;
+text-align: center;
+    }
+
+
+    .kartinka4{
+        width: 500px;
+        height: 500px;
+        position: absolute;
+        bottom: 15px;
+        left: 50px;
+        background-image:url(https://kelmeshop.ru/upload/iblock/3c6/3c6f2b62fa80e3f15cf27634baeb28c9.webp)
+    
+    } 
+    
+
+.BasketSumka{
+    width: 800px;
+    height: 600px;
+    background-color: black;
+    position: relative;
+  top:  200px;
+right:    600px;
+
+
+}
+
+
+    .buy4{
+    
+        width: 250px;
+        height: 50px;
+        background-color: rgb(203, 27, 27);
+        position: absolute;
+ left:  550px;
+   bottom:  150px;
+     
+    
+    }
+    
+    .see4{
+    
+        width: 250px;
+        height: 50px;
+        background-color: rgb(203, 27, 27);
+        position: absolute;
+        left: 550px;
+        top: 250px;
+    }
+    
+
+
+
+
+
+
+/*  ________________________________________________________________________________________________________________________________     */
+
+.list5{ 
+    background-color: rgb(0, 255, 98);
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top:350px;
+    width: 100%;
+    height: 1000px;
+}
+
+
+
+
+.Nazvanielist5{
+    width: 120px;
+    height: 70px;
+    background-color: aqua;
+    position: absolute;
+    top: 50px;
+    font-family: 'Holtwood One SC', serif;
+text-align: center;
+    }
+
+
+.BasketKross{
+    width: 600px;
+    height: 400px;
+    background-color: black;
+    position: relative;
+  top:  200px;
+right:    600px;
+
+
+}
+
+
+.kartinka5{
+ 
+    width: 295px;
+    height: 177px;
+    position: absolute;
+    bottom: 15px;
+    left: 50px; 
+    background-image:url(http://fantastic-sport.ru/pictures/product/small/9327_small.jpg)
+
+} 
+
+
+.buy5{
+    
+    width: 250px;
+    height: 50px;
+    background-color: rgb(203, 27, 27);
+    position: absolute;
+left:  350px;
+bottom:  250px;
+ 
+
+}
+
+.see5{
+
+    width: 250px;
+    height: 50px;
+    background-color: rgb(203, 27, 27);
+    position: absolute;
+    left: 350px;
+    top: 250px;
+}
+
+
+
+____________________________________________________________________________
+
+.Podval{
+    background-color: rgb(218, 33, 33);
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+  bottom:   450px;
+    width: 100%;
+    height: 600px;
+}
+
